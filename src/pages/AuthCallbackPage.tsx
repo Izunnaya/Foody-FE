@@ -5,11 +5,12 @@ import { useNavigate } from "react-router-dom";
 
 const AuthCallbackPage = () => {
   //This hook will give us access to the logged in user, and once we have the logged in user, we can make the call to create a new user
-  const navigate = useNavigate();
-  const { user } = useAuth0();
-  const { createUser, isError, isLoading, isSuccess } = useCreateMyUser();
 
-  //once this component loads, we want to create the use and navigate away from here
+  const { user } = useAuth0(); // ==> This gives us access to current logged in user
+  const { createUser } = useCreateMyUser();
+  const navigate = useNavigate();
+
+  //once this component loads, we want to create the user and navigate away from here
   const hasCreatedUser = useRef(false);
   useEffect(() => {
     if (user?.sub && user?.email && !hasCreatedUser.current) {
