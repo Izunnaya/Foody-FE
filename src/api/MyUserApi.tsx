@@ -24,8 +24,6 @@ export const useCreateMyUser = () => {
       body: JSON.stringify(user),
     });
 
-    console.log(accessToken);
-
     if (!response.ok) {
       throw new Error("user not created");
     }
