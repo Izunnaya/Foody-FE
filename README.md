@@ -33,7 +33,7 @@ _🚧This project is currently in active development. Core features like authent
 ![image](https://github.com/user-attachments/assets/543b8f53-0ad6-46eb-bf2f-cad173f5e4d9)
 
 ## 🛠 Tech Stack
-Frontend: _**Next.js, TypeScript, Tailwind CSS, ShadCN UI, Tenstack Query(for State Management & API calls),**_
+Frontend: _**Next.js, TypeScript, Tailwind CSS, ShadCN UI, Tenstack Query(for State Management & API calls), React Hook form**_
 
 Authentication: _**Auth0**_
 
