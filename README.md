@@ -1,17 +1,27 @@
 #  Foody – MERN Food Ordering App
 Foody is an ongoing full-stack food ordering web application built to deepen my backend skills using the MERN stack. It allows users to browse menus, manage cart items, and securely place orders. The project demonstrates real-world use of REST APIs, modular architecture, and backend integration with authentication.
 ## Features
-🍔 Browse food items by category
+- Browse food items by category
 
-🛒 Add and remove items from cart
+- Add and remove items from cart
 
-🔐 User registration and login
+- User registration and login
 
-📦 Place and track orders (in progress)
+- Place and track orders (in progress)
 
-⚙️ Backend with REST APIs using Express
+- Backend with REST APIs using Express
 
-📖 Project documentation ([Notion ]( https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)+ [Google Docs]( https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?usp=sharing ))
+- Project documentation ([Notion ]( https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)+ [Google Docs]( https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?usp=sharing ))
+
+## Important Notice: 
+
+_🚧This project is currently in active development. Core features like authentication, product listing, and order handling are being built iteratively_
+
+### Things completed : 
+- Landing page completed and fully responsive
+- Successfully set up Auth0 and documented the process publicly [here](https://x.com/Izunnaya_/status/1887568820145168774)
+- Integrated the API to authenticate users from the frontend. 
+- Update User form UI & Validation done. You can find the Documentation [here](https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?tab=t.0#heading=h.8u2lvhe3101j)
 
 ## 🛠 Tech Stack
 Frontend: _**Next.js, TypeScript, Tailwind CSS, ShadCN UI, Tenstack Query(for State Managemnt & API calls),**_
@@ -23,13 +33,3 @@ Backend: _**Node.js, Express**_
 Database: _**MongoDB**_
 
 Docs: _**Notion, Google Docs**_
-
-## Important Notice: 
-
-_🚧This project is currently in active development. Core features like authentication, product listing, and order handling are being built iteratively_
-
-### Things completed : 
-- Landing page completed and fully responsive
-- Successfully set up Auth0 and documented the process publicly [here](https://x.com/Izunnaya_/status/1887568820145168774)
-- Integrated the API to authenticate users from the frontend. 
-- Update User form UI & Validation done. You can find the Documentation [here](https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?tab=t.0#heading=h.8u2lvhe3101j)
