@@ -24,12 +24,12 @@ _🚧This project is currently in active development. Core features like authent
 - Update User form UI & Validation done. You can find the Documentation [here](https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?tab=t.0#heading=h.8u2lvhe3101j)
 
 ## Screenshots
-### Desktop Home View:
+### Homepage (Desktop View):
 ![image](https://github.com/user-attachments/assets/7245eec5-8750-42b3-ade0-c37ed7697e55)
 ![image](https://github.com/user-attachments/assets/106f5ac1-d863-4d76-870e-a11fec019d35)
 
 
-### Mobile view:
+### Homepage (Mobile view):
 ![image](https://github.com/user-attachments/assets/543b8f53-0ad6-46eb-bf2f-cad173f5e4d9)
 
 ## 🛠 Tech Stack
