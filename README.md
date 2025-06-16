@@ -10,18 +10,13 @@ Foody is an ongoing full-stack food ordering web application built to deepen my 
 - Place and track orders (in progress)
 
 - Backend with REST APIs using Express
+- And many more....
 
-- Project documentation ([Notion ]( https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)+ [Google Docs]( https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?usp=sharing ))
-
-## Important Notice: 
-
-_🚧This project is currently in active development. Core features like authentication, product listing, and order handling are being built iteratively_
-
-### Things completed: 
-- Landing page completed and fully responsive
-- Successfully set up Login and register functionalities using Auth0 and documented the entire process publicly [here](https://x.com/Izunnaya_/status/1887568820145168774)
-- Integrated the API to authenticate users from the frontend. 
-- Update User form UI & Validation done. You can find the Documentation [here](https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?tab=t.0#heading=h.8u2lvhe3101j)
+## ✅ Progress So Far:
+- Landing page completed and fully responsive - _Screenshots below 👇🏼_
+- Login and registration implemented using Auth0 — [Public documentation here](https://x.com/Izunnaya_/status/1887568820145168774)
+- Successfully integrated API for frontend user authentication
+- Update User form (UI + validation) fully built — [View detailed documentation](https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?tab=t.0#heading=h.8u2lvhe3101j)
 
 ## Screenshots
 ### Homepage (Desktop View):
