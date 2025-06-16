@@ -17,7 +17,7 @@ Foody is an ongoing full-stack food ordering web application built to deepen my 
 
 _🚧This project is currently in active development. Core features like authentication, product listing, and order handling are being built iteratively_
 
-### Things completed : 
+### Things completed: 
 - Landing page completed and fully responsive
 - Successfully set up Login and register functionalities using Auth0 and documented the entire process publicly [here](https://x.com/Izunnaya_/status/1887568820145168774)
 - Integrated the API to authenticate users from the frontend. 
