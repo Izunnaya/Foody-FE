@@ -3,7 +3,7 @@ Foody is an ongoing full-stack food ordering web application built to deepen my 
 ## Features
 - Browse food items by category
 
-- Add and remove items from cart
+- Add and remove items from the cart
 
 - User registration and login
 
@@ -19,12 +19,21 @@ _🚧This project is currently in active development. Core features like authent
 
 ### Things completed : 
 - Landing page completed and fully responsive
-- Successfully set up Auth0 and documented the process publicly [here](https://x.com/Izunnaya_/status/1887568820145168774)
+- Successfully set up Login and register functionalities using Auth0 and documented the entire process publicly [here](https://x.com/Izunnaya_/status/1887568820145168774)
 - Integrated the API to authenticate users from the frontend. 
 - Update User form UI & Validation done. You can find the Documentation [here](https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?tab=t.0#heading=h.8u2lvhe3101j)
 
+## Screenshots
+### Desktop Home View:
+![image](https://github.com/user-attachments/assets/7245eec5-8750-42b3-ade0-c37ed7697e55)
+![image](https://github.com/user-attachments/assets/106f5ac1-d863-4d76-870e-a11fec019d35)
+
+
+### Mobile view:
+![image](https://github.com/user-attachments/assets/543b8f53-0ad6-46eb-bf2f-cad173f5e4d9)
+
 ## 🛠 Tech Stack
-Frontend: _**Next.js, TypeScript, Tailwind CSS, ShadCN UI, Tenstack Query(for State Managemnt & API calls),**_
+Frontend: _**Next.js, TypeScript, Tailwind CSS, ShadCN UI, Tenstack Query(for State Management & API calls),**_
 
 Authentication: _**Auth0**_
 
