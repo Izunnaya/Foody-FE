@@ -1,50 +1,25 @@
-# React + TypeScript + Vite
+#  Foody – MERN Food Ordering App
+Foody is an ongoing full-stack food ordering web application built to deepen my backend skills using the MERN stack. It allows users to browse menus, manage cart items, and securely place orders. The project demonstrates real-world use of REST APIs, modular architecture, and backend integration with authentication.
+## Features
+🍔 Browse food items by category
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛒 Add and remove items from cart
 
-Currently, two official plugins are available:
+🔐 User registration and login
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📦 Place and track orders (in progress)
 
-## Expanding the ESLint configuration
+⚙️ Backend with REST APIs using Express
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+📖 Project documentation ([Notion ]( https://www.notion.so/MERN-Food-Application-Docs-1888e670a18e809890addab0118ce9c4?pvs=4)+ [Google Docs]( https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?usp=sharing ))
 
-- Configure the top-level `parserOptions` property like this:
+## 🛠 Tech Stack
+Frontend: _**Next.js, TypeScript, Tailwind CSS, ShadCN UI, Tenstack Query(for State Managemnt & API calls),**_
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+Authentication: _**Auth0**_
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+Backend: _**Node.js, Express**_
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+Database: _**MongoDB**_
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Docs: _**Notion, Google Docs**_
