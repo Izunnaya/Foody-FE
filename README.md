@@ -23,3 +23,13 @@ Backend: _**Node.js, Express**_
 Database: _**MongoDB**_
 
 Docs: _**Notion, Google Docs**_
+
+## Important Notice: 
+
+_🚧This project is currently in active development. Core features like authentication, product listing, and order handling are being built iteratively_
+
+### Things completed : 
+- Landing page completed and fully responsive
+- Successfully set up Auth0 and documented the process publicly [here](https://x.com/Izunnaya_/status/1887568820145168774)
+- Integrated the API to authenticate users from the frontend. 
+- Update User form UI & Validation done. You can find the Documentation [here](https://docs.google.com/document/d/1e2PqChVy0JU3fPJ6-Yl778OZ9c79jhpLIOgr07ZWEo0/edit?tab=t.0#heading=h.8u2lvhe3101j)
